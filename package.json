@@ -1,0 +1,9 @@
+{
+  "name": "steel-gym-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Steel-Gym/api",
+  "author": "tsonkov <r.conkov@gmail.com>",
+  "license": "MIT"
+}
+  
